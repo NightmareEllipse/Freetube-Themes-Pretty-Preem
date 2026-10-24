@@ -14,7 +14,7 @@ It was made with the help of the free-tier version of Luna 5.4. via Duck.ai (an 
 If I had a 20$ subscription or a proper local model, I could have simply vibecoded it and debugged it within an hour or two. 
 But due to limited context window, I was not able to feed it the source code and have it produce a fully fledged theme.
 Instead, I used it as a tool, while doing my own debugging, inspecting elements with the developer tools, and applying patches and bug fixes.
-In between, I also switched between Luna instances, often with Luna writing a handover for the next instance (limited context window). (Well, Luna 6.0 DuckAI implemented now a button for that)
+In between, I also switched between Luna instances, often with Luna writing a handover for the next instance (limited context window). (Well, Luna 6.0. DuckAI implemented now a button for that)
 The code was relatively smooth (I guess) until I wanted to add rounded corners. 
 More than 50% of the changes are actually bug fixes that became necessary after adding rounded corners.
 The Bash scripts were also made by Luna. I did a lot of debugging and worked together with Luna to get everything working.
