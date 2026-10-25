@@ -119,6 +119,7 @@ The entire section below is particularly vulnerable:
    FreeTube Rounded Interface Theme
    ========================================================================== */
 
+It is currently bug free.
 If too many bugs appear and you can’t be bothered to bug-fix them yourself,
 or you don’t have access to good LLMs, delete only the" FreeTube Rounded Interface Theme"  portion 
 (all the way down to near the bottom)
