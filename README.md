@@ -92,6 +92,11 @@ To switch themes, copy the new theme’s contents into 000 Active and run the ap
 To restore the original FreeTube files, run:
 ./remove-freetube-flatpak-user-theme.sh
 
+![Matrix & Malfoid theme — screenshot A](Screenshots%20of%20the%20Themes/Preem%20Green%20Matrix%20%26%20Malfoid%20Theme/Matrix/a.png)
+![Matrix & Malfoid theme — screenshot B](Screenshots%20of%20the%20Themes/Preem%20Green%20Matrix%20%26%20Malfoid%20Theme/Matrix/b.png)
+![Matrix & Malfoid theme — screenshot D](Screenshots%20of%20the%20Themes/Preem%20Green%20Matrix%20%26%20Malfoid%20Theme/Matrix/d.png)
+![Matrix & Malfoid theme — screenshot E](Screenshots%20of%20the%20Themes/Preem%20Green%20Matrix%20%26%20Malfoid%20Theme/Matrix/e.png)
+
 ### Bonus
 For a little surprise, select “Dracula” in FreeTube’s settings.
 
