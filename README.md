@@ -1,5 +1,10 @@
 # FreeTube Themes: Pretty Preem
 
+
+![Preema Ballerina (Violent Violet) theme preview](Screenshots%20of%20the%20Themes/Preema%20Ballerina%20%28Violent%20Violet%29/b.png)
+
+
+
 A collection of preem themes for FreeTube Desktop. The theme CSS works on Linux (“Penguin”) and macOS.
 
 Apply and removal scripts are provided for Linux installations using the Debian package (`.deb`) or Flatpak. The scripts do not currently support other package formats or operating systems.
