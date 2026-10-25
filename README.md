@@ -75,6 +75,8 @@ To restore the original FreeTube files, run:
 sudo ./remove-freetube-deb-theme.sh
 
 
+For a little surprise, select “Dracula” in FreeTube’s settings.
+
 Too complicated? Ask [Duck.ai](https://duck.ai/)
 or any other large machine life-form.
 
