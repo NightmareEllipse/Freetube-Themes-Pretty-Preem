@@ -234,6 +234,11 @@ Experiment with this value until the grid matches your preferred size.
 Personally, I use FreeTube’s built-in UI scaler at 100% or 110%, but the CSS option provides more targeted control.
 
 
+![Vaporwave II — screenshot A](Screenshots%20of%20the%20Themes/Vaporwave%20Themes/Vaporwave%20II/a.png)
+![Vaporwave II — screenshot C](Screenshots%20of%20the%20Themes/Vaporwave%20Themes/Vaporwave%20II/c.png)
+![Vaporwave II — screenshot E](Screenshots%20of%20the%20Themes/Vaporwave%20Themes/Vaporwave%20II/e.png)
+
+
 ### Background and glossy styling
 The section between approximately line 35:
 
