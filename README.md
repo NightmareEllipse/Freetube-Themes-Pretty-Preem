@@ -6,6 +6,8 @@
 
 
 A collection of preem themes for FreeTube Desktop. The theme CSS works on Linux (“Penguin”) and macOS.
+Frankly, it’s a tremendous collection—many, many themes, and they look fantastic. Some of the best FreeTube themes you’ve ever seen.
+Grab your favorite and make your FreeTube great again!
 
 Apply and removal scripts are provided for Linux installations using the Debian package (`.deb`) or Flatpak. The scripts do not currently support other package formats or operating systems.
 The included main wallpapers (`a.png` or `a.jpg`) are designed for widescreen displays. Resize them to suit your screen, or use your own wallpapers. The themes are dynamic.
