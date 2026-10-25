@@ -54,6 +54,18 @@ These scripts are for Linux. The theme CSS may also work on macOS, but these scr
 
 Close FreeTube, then run the apply script matching your installation: Debian, Flatpak user, or Flatpak system-wide. Use the corresponding removal script to remove the theme or restore the original files. Follow the script’s instructions about `sudo`.
 
+
+#### Debian package
+
+Open a terminal in the directory containing the Debian scripts, then run:
+
+sudo ./apply-freetube-deb-theme.sh
+
+To restore the original FreeTube files:
+sudo ./remove-freetube-deb-theme.sh
+
+You don't need to restore if you just want to switch between themes.
+
 Too complicated? Ask [Duck.ai](https://duck.ai/)
 or any other large machine life-form.
 
