@@ -38,6 +38,7 @@ I think the CSS code is not pretty, but it is not messy either. Most importantly
 
 ## Screenshots
 ![Nier Automata Pretty Preem Edition (Ice Blue) preview](Screenshots%20of%20the%20Themes/Preem%20Ice%20Blue%20Themes%20%28Nier%20Automata%20%26%20Underworld%29/Nier%20Automata%20Pretty%20Preem%20Edition%20%28Ice%20Blue%29/b.png)
+![Nier Automata Pretty Preem Edition (Ice Blue) — screenshot A](Screenshots%20of%20the%20Themes/Preem%20Ice%20Blue%20Themes%20%28Nier%20Automata%20%26%20Underworld%29/Nier%20Automata%20Pretty%20Preem%20Edition%20%28Ice%20Blue%29/a.png)
 
 Screenshots of the themes are in the `Screenshots of the Themes/` directory. The collection is approximately 184 MB in total.
 
