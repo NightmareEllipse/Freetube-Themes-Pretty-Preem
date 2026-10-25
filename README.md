@@ -1,5 +1,8 @@
-# Freetube-Themes-Pretty-Preem
-Some Preem Themes for Freetube (Desktop)
+# FreeTube Themes: Pretty Preem
+
+A collection of preem themes for FreeTube Desktop. The theme CSS works on Linux (“Penguin”) and macOS.
+
+Apply and removal scripts are provided for Linux installations using the Debian package (`.deb`) or Flatpak. The scripts do not currently support other package formats or operating systems.
 
 ## Why this exists
 
