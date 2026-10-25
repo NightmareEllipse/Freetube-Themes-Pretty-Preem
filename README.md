@@ -26,6 +26,35 @@ But I do like to tinker a lot with my machines.
 I think the CSS code is not pretty, but it is not messy either. Most importantly, it works and it comes with fairly good documentation.
 
 
+
+
+## Installation
+
+These scripts are for Linux. The theme CSS may also work on macOS, but these scripts do not install themes on macOS.
+
+### Requirements
+
+- FreeTube installed as a Debian package, with `app.asar` at `/opt/FreeTube/resources/app.asar`, or installed as Flatpak.
+- Python 3 and the `asar` command available in `PATH` for scripts that repack FreeTube's app archive.
+- The apply script matching your installation type.
+- `sudo` access for Debian and system-wide Flatpak installations. User-wide Flatpak scripts do not require `sudo`.
+
+### Prepare the theme
+
+1. Download and extract this repository.
+2. Create `~/.scripts` if needed, then move or rename the extracted repository folder to `~/.scripts/Freetube Themes`.
+3. Empty `000 Active`.
+4. Copy the **contents** of one theme folder into `000 Active`; don’t copy the theme folder itself.
+5. Ensure exactly one `.css` file is directly inside `000 Active`.
+6. Keep the theme’s `imgs/` folder directly inside `000 Active`, with the image files referenced by the CSS.
+
+### Apply or remove a theme
+
+Close FreeTube, then run the apply script matching your installation: Debian, Flatpak user, or Flatpak system-wide. Use the corresponding removal script to remove the theme or restore the original files. Follow the script’s instructions about `sudo`.
+
+
+
+
 ## Updates
 
 Of course, you have to run the appropriate `apply` script again after an official FreeTube update if you want to continue using the custom theme.
