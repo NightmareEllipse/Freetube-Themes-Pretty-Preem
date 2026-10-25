@@ -5,7 +5,7 @@
 
 
 
-A collection of preem themes for FreeTube Desktop. The theme CSS works on Linux (“Penguin”) and macOS.
+A collection of preem themes for the FreeTube Desktop. The theme CSS works on Linux (“Penguin”) and macOS.
 Frankly, it’s a tremendous collection—many, many themes, and they look fantastic. Some of the best FreeTube themes you’ve ever seen.
 Grab your favorite and make your FreeTube great again!
 
