@@ -29,6 +29,11 @@ I think the CSS code is not pretty, but it is not messy either. Most importantly
 
 
 
+## Screenshots
+
+Screenshots of the themes are in the `Screenshots of the Themes/` directory. The collection is approximately 184 MB in total.
+
+
 
 ## Installation
 
