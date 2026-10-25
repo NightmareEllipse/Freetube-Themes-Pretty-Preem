@@ -52,7 +52,9 @@ These scripts are for Linux. The theme CSS may also work on macOS, but these scr
 
 Close FreeTube, then run the apply script matching your installation: Debian, Flatpak user, or Flatpak system-wide. Use the corresponding removal script to remove the theme or restore the original files. Follow the script’s instructions about `sudo`.
 
-
+To complicated?
+Ask https://duck.ai/ for help.
+Or any other large machine life form.
 
 
 ## Updates
