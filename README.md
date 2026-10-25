@@ -74,7 +74,7 @@ To restore the original FreeTube files, run:
 
 sudo ./remove-freetube-deb-theme.sh
 
-#### Flatpak (User-Installation) package
+#### Flatpak (user installation)
 
 Open a terminal in the directory containing the Flatpak (User) scripts, then run:
 ./apply-freetube-flatpak-user-theme.sh
