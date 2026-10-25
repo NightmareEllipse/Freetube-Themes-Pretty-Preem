@@ -64,7 +64,7 @@ sudo ./apply-freetube-deb-theme.sh
 To restore the original FreeTube files:
 sudo ./remove-freetube-deb-theme.sh
 
-To switch themes, copy the new theme’s contents into 000 Active and run the apply script again. You don’t need to run the removal script when switching themes.
+To switch themes, copy the new theme’s contents into 000 Active and run the apply script again. You don’t need to run the removal script when switching themes. My themes are designed to work when applied this way, so they won’t appear as a mashup.
 To restore the original FreeTube files, run:
 
 sudo ./remove-freetube-deb-theme.sh
