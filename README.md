@@ -179,6 +179,10 @@ The theme should be considered tied to the FreeTube version and DOM structure ag
 I used it with GNU/Linux.
 Electricity is optional.
 
+![Makima Supreme — screenshot A](Screenshots%20of%20the%20Themes/Makima%20Supreme/a.png)
+![Makima Supreme — screenshot D](Screenshots%20of%20the%20Themes/Makima%20Supreme/d.png)
+![Makima Supreme — screenshot E](Screenshots%20of%20the%20Themes/Makima%20Supreme/e.png)
+![Makima Supreme — screenshot F](Screenshots%20of%20the%20Themes/Makima%20Supreme/f.png)
 
 
 
